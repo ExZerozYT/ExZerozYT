@@ -1,7 +1,12 @@
 <h2 align="left">Hi 👋! My name is ExZerozYT and I'm a Developer, from Thailand.</h2>
 
-###
+### 📊 My GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ExZerozYT&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
 
+###
 <img align="right" src="" width="100" style="border-radius: 30%;" alt="My Photo" />
 
 ### 🛠 Skills
