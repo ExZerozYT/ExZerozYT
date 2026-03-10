@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" src="URL_รูปภาพ_ของคุณ" width="200" style="border-radius: 50%;" alt="My Photo" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4MDN3dWdzZms3Y3dxOWRmaGF1eGwycmZubWRia25sNGRyYWg3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vR4fdfh0K3M0o/giphy.gif" width="200" style="border-radius: 50%;" alt="My Photo" />
 
 ### 📊 My GitHub Stats
 <div align="left">
