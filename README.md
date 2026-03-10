@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ExZeroYT and I'm a Developer, from Thailand.</h2>
+<h2 align="left">Hi 👋! My name is ExZerozYT and I'm a Developer, from Thailand.</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExZeroYT&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZeroYT&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ExZerozYT&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ### 🛠 Skills
@@ -12,7 +12,7 @@
 
 ### 🐍 Snake Game
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ExZeroYT/ExZeroYT/output/snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ExZerozYT/ExZeroYT/output/snake-dark.svg" alt="Snake animation" />
 </div>
 
 ### 🌏 Connect with me
