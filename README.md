@@ -12,7 +12,7 @@
 
 ### 🐍 Snake Game
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ExZerozYT/ExZeroYT/output/snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ExZerozYT/ExZerozYT/output/snake-dark.svg" alt="Snake animation" />
 </div>
 
 ### 🌏 Connect with me
