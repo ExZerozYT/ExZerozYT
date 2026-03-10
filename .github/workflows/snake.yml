@@ -1,10 +1,10 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
+  schedule: # รันทุกๆ 12 ชั่วโมง
+    - cron: "0 */12 * * *"
+  
+  workflow_dispatch: # ยอมให้เรากดรันเองได้
 
   push:
     branches:
@@ -21,8 +21,10 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          github_user_name: ExZeroYT
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
 
       - name: push snake.svg to the output branch
