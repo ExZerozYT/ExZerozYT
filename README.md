@@ -2,13 +2,7 @@
 
 ###
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4MDN3dWdzZms3Y3dxOWRmaGF1eGwycmZubWRia25sNGRyYWg3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vR4fdfh0K3M0o/giphy.gif" width="100" style="border-radius: 30%;" alt="My Photo" />
-
-### 📊 My GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExZerozYT&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
+<img align="right" src="" width="100" style="border-radius: 30%;" alt="My Photo" />
 
 ### 🛠 Skills
 <p align="left">
