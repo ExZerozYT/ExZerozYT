@@ -3,7 +3,7 @@
 ### 📊 My GitHub Stats
 
 ###
-<img align="right" src="https://img2.pic.in.th/ezgif-50401390af9f1a5b.gif" width="100" style="border-radius: 30%;" alt="My Photo" />
+<img align="right" src="https://img2.pic.in.th/ezgif-50401390af9f1a5b.gif" width="280" alt="My Profile GIF" />
 
 ### 🛠 Skills
 <p align="left">
