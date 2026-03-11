@@ -1,15 +1,21 @@
 <h2 align="left">Hi 👋! My name is ExZerozYT and I'm a Developer, from Thailand.</h2>
 
-### 📊 My GitHub Stats
-
 ###
+
 <img align="right" src="https://img2.pic.in.th/ezgif-50401390af9f1a5b.gif" width="280" alt="My Profile GIF" />
+
+### 📊 My GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ExZerozYT&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
 
 ### 🛠 Skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,py,cs,html,css,arduino,discord,github,vscode" />
 </p>
 
+### 🐍 Snake Game
 <div align="left">
   <img src="https://raw.githubusercontent.com/ExZerozYT/ExZerozYT/output/snake-dark.svg" alt="Snake animation" />
 </div>
