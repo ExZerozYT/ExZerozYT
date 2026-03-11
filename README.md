@@ -2,10 +2,11 @@
 
 ###
 
-<img align="right" src="https://i.postimg.cc/LXZF7VjP/ezgif-50401390af9f1a5b.gif](https://postimg.cc/Fdm6k3WF" alt="My Profile GIF" />
+<img align="right" src="https://i.postimg.cc/LXZF7VjP/ezgif-50401390af9f1a5b.gif" width="220" alt="My Profile GIF" />
 
 ### 📊 My GitHub Stats
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ExZerozYT&show_icons=true&theme=dracula" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
@@ -16,12 +17,14 @@
 
 ### 🐍 Snake Game
 <div align="left">
-  <img src="https://raw.githubusercontent.com/ExZerozYT/ExZerozYT/output/snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ExZerozYT/ExZerozYT/output/snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
 ### 🌏 Connect with me
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://youtube.com/@ExZerozYT" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
 </div>
 
