@@ -3,7 +3,7 @@
 ### 📊 My GitHub Stats
 
 ###
-<img align="right" src="" width="100" style="border-radius: 30%;" alt="My Photo" />
+<img align="right" src="https://s5.ezgif.com/tmp/ezgif-5e2feda901c0d498.mp4-poster.jpg" width="100" style="border-radius: 30%;" alt="My Photo" />
 
 ### 🛠 Skills
 <p align="left">
