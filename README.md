@@ -2,14 +2,15 @@
 
 ###
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr border="0">
-    <td width="300" valign="center" style="border: none;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="320" valign="top" style="border: none;">
       <h3 align="left">📊 My GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="185" alt="languages graph" />
     </td>
-    <td width="30" style="border: none;"></td> <td valign="center" style="border: none;">
-      <br><br> <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" height="180" alt="My Profile GIF" />
+    <td width="40" style="border: none;"></td> <td valign="bottom" align="left" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" height="180" alt="My Profile GIF" />
+      <br><br>
     </td>
   </tr>
 </table>
