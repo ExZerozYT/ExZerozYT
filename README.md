@@ -15,7 +15,7 @@
 </p>
 
 ### 🐍 Snake Game
-<img src="https://raw.githubusercontent.com/ExZerozYT/ExZerozYT/output/snake-dark.svg" width="100%" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ExZerozYT/ExZerozYT/output/snake-dark.svg" width="95%" alt="Snake animation" />
 
 <br> ### 🌏 Connect with me
 <p align="left">
