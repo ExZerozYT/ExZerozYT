@@ -2,12 +2,11 @@
 
 ###
 
-<div align="right" style="margin-right: 50px;">
-  <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="180" alt="My Profile GIF" />
-</div>
+<img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="180" align="right" style="margin-right: 50px;" alt="My Profile GIF" />
 
 ### 📊 My GitHub Stats
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ExZerozYT&show_icons=true&theme=dracula" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
