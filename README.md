@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="185" align="left" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" height="130" />
+  <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" height="140" />
 </div>
 
 <br clear="both">
@@ -14,7 +14,6 @@
   <img src="https://skillicons.dev/icons?i=py,cs,js,ts,go,lua,html,css,react,arduino,github" />
 </p>
 
-### 🐍 Snake Game
 <p align="left">
   <img src="https://raw.githubusercontent.com/ExZerozYT/ExZerozYT/output/snake-dark.svg" width="100%" alt="Snake animation" />
 </p>
