@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://github-readme-attachments.s3.amazonaws.com/ezgif-50401390af9f1a5b.gif" width="180" align="right" style="margin-right: 100px;" alt="My Profile GIF" />
+<img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="180" align="right" style="margin-right: 120px;" alt="My Profile GIF" />
 
 ### 📊 My GitHub Stats
 <div align="left">
