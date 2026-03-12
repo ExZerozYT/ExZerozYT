@@ -4,7 +4,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       ### 📊 My GitHub Stats
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="200" alt="languages graph" />
     </td>
