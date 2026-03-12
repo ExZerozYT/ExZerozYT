@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="180" alt="My Profile GIF" />
+<div align="right" style="margin-right: 50px;">
+  <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="180" alt="My Profile GIF" />
+</div>
 
 ### 📊 My GitHub Stats
 <div align="left">
