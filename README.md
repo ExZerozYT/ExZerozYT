@@ -14,7 +14,6 @@
   <img src="https://skillicons.dev/icons?i=py,cs,js,ts,go,lua,html,css,react,arduino,github" />
 </p>
 
-### 🐍 Snake Game
 <img src="https://raw.githubusercontent.com/ExZerozYT/ExZerozYT/output/snake-dark.svg" width="100%" alt="Snake animation" />
 
 ### 🌏 Connect with me
