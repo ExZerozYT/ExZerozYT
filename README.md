@@ -9,7 +9,7 @@
 
 ### 🛠 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,py,cs,html,css,arduino,discord,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,cs,js,ts,go,lua,html,css,react,arduino,github" />
 </p>
 
 ### 🐍 Snake Game
