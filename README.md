@@ -8,7 +8,7 @@
       ### 📊 My GitHub Stats
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="200" alt="languages graph" />
     </td>
-    <td width="40%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <br><br>
       <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="220" alt="My Profile GIF" />
     </td>
