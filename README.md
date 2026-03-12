@@ -2,15 +2,15 @@
 
 ###
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="23%" valign="top">
-      ### 📊 My GitHub Stats
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="200" alt="languages graph" />
+    <td width="300" valign="top">
+      <h3 align="left">📊 My GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="20"></td> <td valign="bottom" align="left">
+      <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="180" alt="My Profile GIF" style="border-radius: 10px;" />
       <br><br>
-      <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="100" alt="My Profile GIF" />
     </td>
   </tr>
 </table>
@@ -30,3 +30,5 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
 </div>
+
+<br clear="both">
