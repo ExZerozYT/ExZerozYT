@@ -5,11 +5,11 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      📊 My GitHub Stats
+  📊 My GitHub Stats
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula" height="150" alt="languages graph" />
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="200" alt="My Profile GIF" />
+      <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="250" alt="My Profile GIF" />
     </td>
   </tr>
 </table>
