@@ -3,14 +3,13 @@
 ###
 
 <table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="300" valign="top">
+  <tr border="0">
+    <td width="300" valign="center" style="border: none;">
       <h3 align="left">📊 My GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
     </td>
-    <td width="20"></td> <td valign="bottom" align="left">
-      <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" width="180" alt="My Profile GIF" style="border-radius: 10px;" />
-      <br><br>
+    <td width="30" style="border: none;"></td> <td valign="center" style="border: none;">
+      <br><br> <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" height="180" alt="My Profile GIF" />
     </td>
   </tr>
 </table>
