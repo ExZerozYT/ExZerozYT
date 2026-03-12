@@ -2,18 +2,12 @@
 
 ###
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="320" valign="top" style="border: none;">
-      <h3 align="left">📊 My GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="185" alt="languages graph" />
-    </td>
-    <td width="40" style="border: none;"></td> <td valign="bottom" align="left" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" height="180" alt="My Profile GIF" />
-      <br><br>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="185" align="left" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" height="180" />
+</div>
+
+<br clear="both">
 
 ### 🛠 Skills
 <p align="left">
