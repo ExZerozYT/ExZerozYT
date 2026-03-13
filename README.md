@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="185" align="left" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/47213cab-b42a-4d39-a9ce-63f6dae6b023" height="140" />
+  <img src="https://github.com/user-attachments/assets/0fc40304-2854-43e6-bf96-f2218d71dddd" height="140" />
 </div>
 
 <br clear="both">
