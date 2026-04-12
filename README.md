@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is ExZerozYT and I'm a Developer, from Thailand.</h2>
 
 
-
 ###
 
 
