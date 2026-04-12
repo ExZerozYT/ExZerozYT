@@ -17,6 +17,6 @@
 
 🌏 Connect with me
 <p align="left">
-<img src="https://www.youtube.com/@x2Shift" height="35" style="margin-right: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExZerozYT&layout=compact&theme=dracula&hide_border=true" height="185" align="left" style="margin-right: 20px;" />
 <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
 </p>
